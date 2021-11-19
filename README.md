@@ -8,3 +8,6 @@
 
 คลิปทดลองการใช้คำสั่งdig กับ root_name_server
 <https://youtu.be/uqRCnrr32Ds>
+
+The Onion Router (TOR)
+<https://www.youtube.com/watch?v=CIAtchaEWQw>
